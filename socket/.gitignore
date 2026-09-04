@@ -1,0 +1,8 @@
+# 编译产出
+*.exe *.out *.o *.obj *.a *.so
+# IDE
+.vscode/ .vs/ .idea/ *.swp
+# 系统
+.DS_Store Thumbs.db
+# 临时文件
+*.log *.tmp
